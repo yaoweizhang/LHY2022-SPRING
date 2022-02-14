@@ -3,7 +3,7 @@
 
 微信订阅号：机器学习手艺人  
  * 作业解答
- * 信息发布
+ * 信息发布  
 ![二维码](https://user-images.githubusercontent.com/13679904/153817467-434bc321-e6c2-471a-9a99-29e728fd5740.jpg)
 
 
