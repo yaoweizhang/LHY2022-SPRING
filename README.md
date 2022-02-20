@@ -14,7 +14,7 @@
 
 哔哩哔哩：机器学习手艺人  
  * 课程视频
- * https://space.bilibili.com/396687241/channel/series
+ * https://www.bilibili.com/video/BV1Z34y1C7sj?spm_id_from=333.999.0.0
 
 CSDN：机器学习手艺人  
  * 作业解答
@@ -24,4 +24,5 @@ CSDN：机器学习手艺人
 
 |Week|date|Topic|课程视频|课件|作业|
 |:--|:--|:--|:--|:--|:--|
-|第一周|2/18|Lecture 1：Introduction of <br> Deep Learning |[video1] <br> [video2]|[pdf](Lecture1)|[Hw1视频]() <br> [Hw1课件和代码](Hw1)|
+|课题介绍| |Lecture 0: Introduction of this course | [video1](https://www.bilibili.com/video/BV1Z34y1C7sj?p=1)|[pdf](Lecture0)|
+|第一周|2/18|Lecture 1：Introduction of <br> Deep Learning |[video1](https://www.bilibili.com/video/BV1Z34y1C7sj?p=2) <br> [video2](https://www.bilibili.com/video/BV1Z34y1C7sj?p=3)|[pdf](Lecture1)|[Hw1视频](https://www.bilibili.com/video/BV1Z34y1C7sj?p=4) <br> [Hw1课件和代码](Hw1)|
