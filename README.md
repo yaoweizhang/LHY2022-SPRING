@@ -25,6 +25,6 @@
 
 |Week|date|Topic|课程视频|课件|作业|
 |:--|:--|:--|:--|:--|:--|
-|课题介绍| |Lecture 0: Introduction of this course | [video1](https://www.bilibili.com/video/BV1Z34y1C7sj?p=1)|[pdf](Lecture0)|
+|课题介绍| |Lecture 0: Introduction of this course | [video1](https://www.bilibili.com/video/BV1Z34y1C7sj?p=1)|[pdf](Lecture00)|
 |第一周|2/18|Lecture 1：Introduction of <br> Deep Learning |[video1](https://www.bilibili.com/video/BV1Z34y1C7sj?p=2) <br> [video2](https://www.bilibili.com/video/BV1Z34y1C7sj?p=3)|[pdf](Lecture01)|[Hw1视频](https://www.bilibili.com/video/BV1Z34y1C7sj?p=4) <br> [Hw1课件和代码](Hw01)|
 |第二周|2/25|Lecture 2：Whatto do if my network <br>fails to train |[video1](https://www.bilibili.com/video/BV1Z34y1C7sj?p=8) <br> [video2](https://www.bilibili.com/video/BV1Z34y1C7sj?p=9) <br> [video3](https://www.bilibili.com/video/BV1Z34y1C7sj?p=10) <br> [video4](https://www.bilibili.com/video/BV1Z34y1C7sj?p=11) <br> [video5](https://www.bilibili.com/video/BV1Z34y1C7sj?p=12)|[pdf/ppt](Lecture02)|[Hw2视频](https://www.bilibili.com/video/BV1Z34y1C7sj?p=18) <br> [Hw2课件和代码](Hw02)|
