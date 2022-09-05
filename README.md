@@ -2,13 +2,13 @@
 李宏毅（Hung-yi Lee) 2022年春季机器学习课程，包括课件、作业和作业解析，由于作业训练数据量比较大，无法放到github中，请关注微信号获取作业训练数据（后台会给出百度网盘链接）。
 
 ```
-# github文件结构，作业解析在每个作业的answer文件夹下面
-├── Hw01
-│   ├── HW01.pdf
-│   ├── ML2022Spring_HW1.ipynb
-│   └── answer
-│       ├── boss baseline.ipynb
-│       ├── medium baseline.ipynb
+# github文件结构
+├── Hw01 # 作业名称
+│   ├── HW01.pdf  # 作业课件
+│   ├── ML2022Spring_HW1.ipynb # 助教代码
+│   └── answer # 作业解析
+│       ├── boss baseline.ipynb    
+│       ├── medium baseline.ipynb
 │       ├── simple baseline.ipynb
 │       ├── strong baseline.ipynb
 │       └── ......
@@ -21,7 +21,13 @@
 │       ├── HW02-simple.ipynb
 │       └── HW02-strong.ipynb
 ├── Hw03
-    ......
+......
+├── Lecture00 #课程名称
+│   ├── introduction (v2).pdf # 课程课件
+│   └── introduction (v2).pptx # 课程课件
+├── Lecture01
+│   └── Introduction_regression (v16).pdf
+......
 ```
 
 ## **课程视频**
